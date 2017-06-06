@@ -1,0 +1,24 @@
+Are location and language targeting settings correct? Look at user location.
+Are any search campaigns opted into the display/content network?
+Are ads set to "accelerated"?
+Are there bid modifiers in place for location? If so, are they correct?
+Are there any bid modifiers within GDN campaigns? If so, are they correct?
+Are bids set properly across match types? (Exact > BMM > Phrase > Broad)
+Are there low quality score keywords that should be optimized or deleted?
+How many KWs are queries matching to? Any high volume queries?
+Are any keywords driving to error, 404, or "out of stock" pages?
+Are there any non-exact match campaigns that don't have negatives?
+Does the account have at least two active ads in each active AdGroup?
+Does the copy contain at least one KW from the ad group?
+Do all campaigns have Sitelinks? Does this account need ad group level Sitelinks?
+Is this account utilizing review extensions?
+Is this account utilizing call out extensions?
+Is this account utilizing app install extensions?
+Is this account utilizing structured snippets?
+Is this account utlizing Image extensions?
+Are you losing any Impression Share due to budget?
+Are you losing any Impression Share due to rankings?
+Are there 5 or less keywords per ad group?
+Are there any placements spending but converting?
+Are there any keywords spending but not converting?
+Are ad types segemented by campaign or at least ad group?
