@@ -1,6 +1,6 @@
 /*
  * AdWords Script that monitors campaign spends against budget thresholds
- * View tutorial here: https://www.linkedin.com/post/edit/6277720997307260929
+ * View tutorial here: https://www.linkedin.com/pulse/leveraging-slack-manage-adwords-campaign-budgets-derek-martin?published=t
  */
 
 var SLACK_URL = 'YOUR_WEBHOOK_URL';
