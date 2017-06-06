@@ -1,6 +1,6 @@
 /*
  * AdWords Script that monitors campaign spends against budget thresholds
- * View tutorial here:
+ * View tutorial here: https://www.linkedin.com/post/edit/6277720997307260929
  */
 
 var SLACK_URL = 'YOUR_WEBHOOK_URL';
